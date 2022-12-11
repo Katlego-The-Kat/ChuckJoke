@@ -19,7 +19,7 @@
     "cheerio": "^1.0.0-rc.2",
     "config": "^1.26.1",
     "disinfect": "^0.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gm": "^1.23.1",
     "hapi": "^16.7.0",
     "hapi-auth-bearer-token": "^5.1.0",
